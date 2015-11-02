@@ -66,7 +66,7 @@
     } 
   },
   "gameover": {
-    "text": "Game\nOver",
+    "text": "you got scoped\nscrub",
     "offset": -150,
     "style": {
       "font": "100px sans-serif", 
