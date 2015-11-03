@@ -11,8 +11,8 @@
   },
   "flappy": {
       "x": 60,
-      "width": 46,
-      "height": 64,
+      "width": 32,
+      "height": 31,
       "scale": 1,
       "gravity": 1200,
       "flap": {
